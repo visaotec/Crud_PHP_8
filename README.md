@@ -10,7 +10,7 @@
 
   ##
 
-![crud](https://github.com/visaotec/Crud_Laravel/blob/master/crud.PNG)
+![crud](https://github.com/visaotec/Crud_PHP_8/main/login.PNG)
 
 
 #### Acesse nosso canal no [Youtube](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
