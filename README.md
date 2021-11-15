@@ -2,15 +2,15 @@
 
 
 # Crud com PHP 8
-## Login - Cadastro de Usuários - Edição - Deleção - Adição 
-## Formulário envio de e-mail
+## Login - Cadastro de Usuários - Edição - Deleção - Adição | Formulário envio de e-mail
 
+##
 
 * Para rodar o Crud é preciso instalar um servidor localhost Wamp ou Xampp e para enviar e-mail é preciso está hospedado online.
 
   ##
 
-![crud](https://github.com/visaotec/Crud_PHP_8/main/login.PNG)
+![crud](https://github.com/visaotec/Crud_PHP_8/blob/main/login.PNG)
 
 
 #### Acesse nosso canal no [Youtube](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
