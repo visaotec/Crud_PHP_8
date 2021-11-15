@@ -1,7 +1,7 @@
 
 
 
-# Crud com PHP 8
+# Crud com PHP 8 PDO
 ## Login - Cadastro de Usuários - Edição - Deleção - Adição | Formulário envio de e-mail
 
 #
